@@ -1,2 +1,2 @@
 # WanderLust
-Hotel finding
+Travel dil se
